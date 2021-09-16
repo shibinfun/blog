@@ -8,7 +8,7 @@
 这里看到历史所有文章记录：
 
 ```markdown
-[第一篇](https://guides.github.com/features/mastering-markdown/)
-[第二篇](https://guides.github.com/features/mastering-markdown/)
+认真的[第一篇](https://guides.github.com/features/mastering-markdown/)一篇
+认真的[第二篇](https://guides.github.com/features/mastering-markdown/)一篇
 
 ```
