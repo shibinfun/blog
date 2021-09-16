@@ -7,8 +7,9 @@
 
 这里看到历史所有文章记录：
 
-```markdown
-认真的[第一篇](https://guides.github.com/features/mastering-markdown/)一篇
-认真的[第二篇](https://guides.github.com/features/mastering-markdown/)一篇
 
+ [第一篇](https://github.com/shibinfun/blog/edit/gh-pages/1.md)
+ [第二篇](https://github.com/shibinfun/blog/edit/gh-pages/2.md)
+```markdown
+所有文章都是认真写的
 ```
