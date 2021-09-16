@@ -3,29 +3,17 @@
 你可以点击这里 [editor on GitHub](https://github.com/shibinfun/blog/edit/gh-pages/index.md) 直接看github中的文章
 
 
-### Markdown
+### 博客一览
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这里看到历史所有文章记录：
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+[第一篇](https://guides.github.com/features/mastering-markdown/)
+[第二篇](https://guides.github.com/features/mastering-markdown/)
 - List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
