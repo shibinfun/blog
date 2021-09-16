@@ -1,8 +1,7 @@
-## 石斌的222
+## 博客文章
 
-You can use the [editor on GitHub](https://github.com/shibinfun/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以点击这里 [editor on GitHub](https://github.com/shibinfun/blog/edit/gh-pages/index.md) 直接看github中的文章
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
